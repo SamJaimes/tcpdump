@@ -5,7 +5,7 @@
 In this project, I wrote a script using bash command line that will capture network traffic using TCPDump. 
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+
 
 ## Architecture After Hardening / Security Controls
 
